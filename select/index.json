@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "エーミール",
+  "base_artist": "紫 今",
+  "createdAt": "2026-02-14T13:20:45.671321Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "エーミール",
+      "artist": "紫 今",
+      "has_synced": false,
+      "path": "select/01_エーミール_紫_今.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "エーミール",
+      "artist": "紫今",
+      "has_synced": false,
+      "path": "select/pl_01_エーミール_紫今.txt"
+    }
+  ]
+}
